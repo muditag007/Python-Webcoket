@@ -1,2 +1,2 @@
 # Python-Webcoket
-Creatin a websocket server using python
+Creating a websocket server using python
